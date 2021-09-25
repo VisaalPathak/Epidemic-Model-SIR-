@@ -9,6 +9,12 @@ I compartment consiste of population of Infected people(Increases at first but l
 
 R compartment consists of recovered population(Increases over time)
 
+# Libraries used
+numpy,
+Matplotlib,
+Scipy
+
+
 # Flow of Population in different Compartments
 
 ![](Figure_1.png)
